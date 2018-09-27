@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.cloudrein.com:9000" />
+          <token>dfccdfc8df9ddf9edf98df9bdf9fdfc8dfcedf9adf9ddf9bdf9cdf9ddfcedfccdf93df9cdfcbdf9adfcedfcbdfcfdf99df9bdf9bdfcfdfc9df98dfc9df9adf93df9ddf99df9fdf9edf9adfcedf92dfc8</token>
+          <option name="name" value="http://sonar.cloudrein.com:9000" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
