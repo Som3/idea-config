@@ -14,6 +14,10 @@
           <option name="url" value="http://stash.tcsbank.ru" />
           <option name="userName" value="v.v.alekseev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://v.v.alekseev@stash.tcsbank.ru/scm/big/spheradian.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
