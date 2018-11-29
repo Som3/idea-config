@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".attach_pid16104" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
