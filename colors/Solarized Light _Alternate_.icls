@@ -420,9 +420,7 @@
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
+      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -460,7 +458,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="45585f" />
         <option name="BACKGROUND" value="fdf6e3" />
       </value>
     </option>
