@@ -414,9 +414,16 @@
         <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8f39" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="8f39" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
