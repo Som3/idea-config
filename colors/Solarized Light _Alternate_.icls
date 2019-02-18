@@ -1,8 +1,8 @@
 <scheme name="Solarized Light (Alternate)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
@@ -420,7 +420,9 @@
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="758587" />
+      </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -440,17 +442,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Scala Parameter">
-      <value>
-        <option name="FOREGROUND" value="68787a" />
-      </value>
-    </option>
-    <option name="Scala Type Alias">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -458,8 +449,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="45585f" />
-        <option name="BACKGROUND" value="fdf6e3" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="e3ddcc" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -470,7 +461,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="758587" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
