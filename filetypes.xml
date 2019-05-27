@@ -7,7 +7,6 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="fnc" type="DBN-PSQL" />
